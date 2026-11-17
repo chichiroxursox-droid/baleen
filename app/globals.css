@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@theme {
+  --color-abyss: #0a2c38;
+  --color-tide: #e2ecec;
+  --color-shell: #f7faf9;
+  --color-drift: #3e5e66;
+  --color-plate: #a9bdbc;
+  --color-kelp: #d3dfde;
+  --color-krill: #d2394f;
+  --color-krill-ink: #a61f37;
+  --color-foam: #ddebe9;
+}
+
+@theme inline {
+  --font-sans: var(--font-atkinson), system-ui, sans-serif;
+}
+
+html {
+  color-scheme: light;
+}
+
+body {
+  background: var(--color-tide);
+  color: var(--color-abyss);
+}
+
+:focus-visible {
+  outline: 3px solid var(--color-abyss);
+  outline-offset: 2px;
+}
+.on-deep :focus-visible {
+  outline-color: var(--color-foam);
+}
+
+summary {
+  cursor: pointer;
+}
+
+/* The one orchestrated moment: baleen plates drop in on load. */
+.plate {
+  transform-box: fill-box;
+  transform-origin: top;
+  animation: drop 1100ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  animation-delay: calc(var(--i) * 5ms);
+}
+@keyframes drop {
+  from {
+    transform: scaleY(0.05);
+  }
+}
+
+.pulse {
+  animation: pulse 1.2s ease-in-out infinite;
+}
+@keyframes pulse {
+  50% {
+    opacity: 0.35;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .plate,
+  .pulse {
+    animation: none;
+  }
+}

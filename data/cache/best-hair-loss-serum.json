@@ -1,0 +1,744 @@
+{
+  "query": "best hair loss serum",
+  "condition": "androgenetic alopecia",
+  "products": [
+    {
+      "id": "rogaine-men-s-5-minoxidil-foam-3-month-supply",
+      "brand": "Rogaine",
+      "name": "Men's 5% Minoxidil Foam, 3-Month Supply",
+      "form": "foam",
+      "actives": [
+        {
+          "name": "minoxidil",
+          "strength": "5%"
+        }
+      ],
+      "packageSize": {
+        "amount": 187.2,
+        "unit": "ml"
+      },
+      "dailyUse": {
+        "amount": 2.08,
+        "unit": "ml",
+        "source": "Package states a 3-month supply"
+      },
+      "price": {
+        "usd": 49.97,
+        "retailer": "Walmart",
+        "url": "https://www.walmart.com/browse/beauty/minoxidil/rogaine/1085666_3147628_8428896_9545402_7891323/YnJhbmQ6Um9nYWluZQieie",
+        "seenAt": "2026-09-27T01:53:57.768Z"
+      },
+      "rating": {
+        "stars": 4,
+        "count": 2454,
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/beauty/minoxidil/rogaine/1085666_3147628_8428896_9545402_7891323/YnJhbmQ6Um9nYWluZQieie"
+      },
+      "fda": {
+        "status": "NDA",
+        "applicationNumber": "NDA021812",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1b5e2860-6855-4a65-8bbc-e064172a1adf",
+        "warnings": [
+          "Stop use and ask a doctor if chest pain, rapid heartbeat, faintness, or dizziness occurs",
+          "Stop use and ask a doctor if ... sudden, unexplained weight gain occurs",
+          "Stop use and ask a doctor if ... your hands or feet swell scalp irritation or redness occurs",
+          "Stop use and ask a doctor if ... unwanted facial hair growth occurs"
+        ]
+      },
+      "costPerMonth": {
+        "usd": 16.66,
+        "monthsPerPackage": 3,
+        "formula": "Package states a 3-month supply. $49.97 / 3 = $16.66 per month"
+      }
+    },
+    {
+      "id": "equate-minoxidil-topical-aerosol-hair-regrowth-treatment-for",
+      "brand": "Equate",
+      "name": "Minoxidil Topical Aerosol Hair Regrowth Treatment for Men, 3-Month Supply",
+      "form": "foam",
+      "actives": [
+        {
+          "name": "minoxidil",
+          "strength": "5%"
+        }
+      ],
+      "packageSize": {
+        "amount": 187.2,
+        "unit": "ml"
+      },
+      "dailyUse": {
+        "amount": 2.08,
+        "unit": "ml",
+        "source": "Package states a 3-month supply"
+      },
+      "price": {
+        "usd": 32.94,
+        "retailer": "Walmart",
+        "url": "https://www.walmart.com/browse/beauty/minoxidil/male/1085666_3147628_8428896_9545402_7891323/Z2VuZGVyOk1hbGUie",
+        "seenAt": "2026-09-27T01:53:57.768Z"
+      },
+      "rating": {
+        "stars": 4.4,
+        "count": 1518,
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/beauty/minoxidil/male/1085666_3147628_8428896_9545402_7891323/Z2VuZGVyOk1hbGUie"
+      },
+      "fda": {
+        "status": "ANDA",
+        "applicationNumber": "ANDA091344",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aa3eb73f-f5bc-4743-8596-ae87cf133a1b",
+        "warnings": [
+          "Stop use and ask a doctor if ... chest pain, rapid heartbeat, faintness, or dizziness occurs",
+          "Stop use and ask a doctor if ... sudden, unexplained weight gain occurs",
+          "Stop use and ask a doctor if ... your hands or feet swell",
+          "Stop use and ask a doctor if ... scalp irritation or redness occurs"
+        ]
+      },
+      "costPerMonth": {
+        "usd": 10.98,
+        "monthsPerPackage": 3,
+        "formula": "Package states a 3-month supply. $32.94 / 3 = $10.98 per month"
+      }
+    },
+    {
+      "id": "kirkland-signature-minoxidil-foam-for-men-hair-regrowth-trea",
+      "brand": "Kirkland Signature",
+      "name": "Minoxidil Foam for Men, Hair Regrowth Treatment, 6-Count",
+      "form": "foam",
+      "actives": [
+        {
+          "name": "minoxidil",
+          "strength": "5%"
+        }
+      ],
+      "packageSize": {
+        "amount": 374.4,
+        "unit": "ml"
+      },
+      "dailyUse": {
+        "amount": 2.08,
+        "unit": "ml",
+        "source": "Package states a 6-month supply"
+      },
+      "price": null,
+      "rating": null,
+      "fda": {
+        "status": "ANDA",
+        "applicationNumber": "ANDA091344",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0abfa2f8-38d0-4bfe-91ff-aa4abde66525",
+        "warnings": [
+          "Stop use and ask a doctor if ... chest pain, rapid heartbeat, faintness, or dizziness occurs",
+          "Stop use and ask a doctor if ... sudden, unexplained weight gain occurs",
+          "Stop use and ask a doctor if ... your hands or feet swell",
+          "Stop use and ask a doctor if ... scalp irritation or redness occurs"
+        ]
+      },
+      "costPerMonth": null
+    },
+    {
+      "id": "equate-minoxidil-topical-solution-usp-5-percent-extra-streng",
+      "brand": "Equate",
+      "name": "Minoxidil Topical Solution USP, 5 Percent, Extra Strength, 1-Month Supply",
+      "form": "solution",
+      "actives": [
+        {
+          "name": "minoxidil",
+          "strength": "5%"
+        }
+      ],
+      "packageSize": {
+        "amount": 59.15,
+        "unit": "ml"
+      },
+      "dailyUse": {
+        "amount": 1.97,
+        "unit": "ml",
+        "source": "Package states a 1-month supply"
+      },
+      "price": null,
+      "rating": null,
+      "fda": {
+        "status": "ANDA",
+        "applicationNumber": "ANDA075598",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=98f780ad-dc07-4d37-a05d-fc7b45b0c474",
+        "warnings": [
+          "Stop use and ask a doctor if ... chest pain, rapid heartbeat, faintness, or dizziness occurs",
+          "Stop use and ask a doctor if ... sudden, unexplained weight gain occurs",
+          "Stop use and ask a doctor if ... your hands or feet swell",
+          "Stop use and ask a doctor if ... scalp irritation or redness occurs"
+        ]
+      },
+      "costPerMonth": null
+    },
+    {
+      "id": "rogaine-women-s-2-minoxidil-liquid-solution-1-month-supply",
+      "brand": "Rogaine",
+      "name": "Women's 2% Minoxidil Liquid Solution, 1-Month Supply",
+      "form": "solution",
+      "actives": [
+        {
+          "name": "minoxidil",
+          "strength": "2%"
+        }
+      ],
+      "packageSize": {
+        "amount": 59.15,
+        "unit": "ml"
+      },
+      "dailyUse": {
+        "amount": 1.97,
+        "unit": "ml",
+        "source": "Package states a 1-month supply"
+      },
+      "price": {
+        "usd": 29.97,
+        "retailer": "Walmart",
+        "url": "https://www.walmart.com/browse/beauty/minoxidil/rogaine/1085666_3147628_8428896_9545402_7891323/YnJhbmQ6Um9nYWluZQieie",
+        "seenAt": "2026-09-27T01:53:57.768Z"
+      },
+      "rating": {
+        "stars": 4,
+        "count": 525,
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/beauty/minoxidil/rogaine/1085666_3147628_8428896_9545402_7891323/YnJhbmQ6Um9nYWluZQieie"
+      },
+      "fda": {
+        "status": "NDA",
+        "applicationNumber": "NDA019501",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8bf0000c-95f3-4a4d-830b-f5ac1539823d",
+        "warnings": [
+          "Stop use and ask a doctor if chest pain, rapid heartbeat, faintness, or dizziness occurs",
+          "Stop use and ask a doctor if ... sudden, unexplained weight gain occurs",
+          "Stop use and ask a doctor if ... your hands or feet swell scalp irritation or redness occurs",
+          "Stop use and ask a doctor if ... unwanted facial hair growth occurs"
+        ]
+      },
+      "costPerMonth": {
+        "usd": 29.97,
+        "monthsPerPackage": 1,
+        "formula": "Package states a 1-month supply. $29.97 / 1 = $29.97 per month"
+      }
+    },
+    {
+      "id": "nutrafol-men-s-hair-serum",
+      "brand": "Nutrafol",
+      "name": "Men's Hair Serum",
+      "form": "serum",
+      "actives": [
+        {
+          "name": "caffeine",
+          "strength": null
+        },
+        {
+          "name": "biotin",
+          "strength": null
+        },
+        {
+          "name": "peptides",
+          "strength": null
+        }
+      ],
+      "packageSize": {
+        "amount": 50,
+        "unit": "ml"
+      },
+      "dailyUse": {
+        "amount": 1.67,
+        "unit": "ml",
+        "source": "Package states a 1-month supply"
+      },
+      "price": null,
+      "rating": {
+        "stars": 4.3,
+        "count": 32,
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/beauty/mens-hair-regrowth/1085666_3147628_8428896_9545402_4922801"
+      },
+      "fda": {
+        "status": "NOT_FDA_DRUG",
+        "applicationNumber": null,
+        "labelUrl": null,
+        "warnings": []
+      },
+      "costPerMonth": null
+    },
+    {
+      "id": "vegamour-gro-hair-serum",
+      "brand": "Vegamour",
+      "name": "GRO Hair Serum",
+      "form": "serum",
+      "actives": [
+        {
+          "name": "mung bean sprout extract",
+          "strength": null
+        },
+        {
+          "name": "red clover extract",
+          "strength": null
+        },
+        {
+          "name": "peptides",
+          "strength": null
+        }
+      ],
+      "packageSize": {
+        "amount": 29.57,
+        "unit": "ml"
+      },
+      "dailyUse": {
+        "amount": 0.99,
+        "unit": "ml",
+        "source": "Package states a 1-month supply"
+      },
+      "price": {
+        "usd": 49,
+        "retailer": "Vegamour",
+        "url": "https://vegamour.com/products/gro-hair-serum",
+        "seenAt": "2026-09-27T01:53:57.768Z"
+      },
+      "rating": {
+        "stars": 4.6,
+        "count": 5744,
+        "source": "Vegamour",
+        "url": "https://vegamour.com/products/gro-hair-serum"
+      },
+      "fda": {
+        "status": "NOT_FDA_DRUG",
+        "applicationNumber": null,
+        "labelUrl": null,
+        "warnings": []
+      },
+      "costPerMonth": {
+        "usd": 49,
+        "monthsPerPackage": 1,
+        "formula": "Package states a 1-month supply. $49.00 / 1 = $49.00 per month"
+      }
+    },
+    {
+      "id": "hims-minoxidil-5-topical-solution-hair-loss-regrowth-treatme",
+      "brand": "Hims",
+      "name": "Minoxidil 5% Topical Solution, Hair Loss & Regrowth Treatment for Men",
+      "form": "solution",
+      "actives": [
+        {
+          "name": "minoxidil",
+          "strength": "5%"
+        }
+      ],
+      "packageSize": {
+        "amount": 59.15,
+        "unit": "ml"
+      },
+      "dailyUse": {
+        "amount": 1.97,
+        "unit": "ml",
+        "source": "Package states a 1-month supply"
+      },
+      "price": null,
+      "rating": {
+        "stars": 4.3,
+        "count": 1063,
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/beauty/minoxidil/male/1085666_3147628_8428896_9545402_7891323/Z2VuZGVyOk1hbGUie"
+      },
+      "fda": {
+        "status": "ANDA",
+        "applicationNumber": "ANDA075598",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c3caf0cd-9148-4696-9cb8-ec93cab3f9f5",
+        "warnings": [
+          "Stop use and ask a doctor if ... chest pain, rapid heartbeat, faintness, or dizziness occurs",
+          "Stop use and ask a doctor if ... sudden, unexplained weight gain occurs",
+          "Stop use and ask a doctor if ... your hands or feet swell",
+          "Stop use and ask a doctor if ... scalp irritation or redness occurs"
+        ]
+      },
+      "costPerMonth": null
+    }
+  ],
+  "evidence": [
+    {
+      "active": "minoxidil",
+      "condition": "androgenetic alopecia",
+      "reviews": 24,
+      "trials": 110,
+      "tier": "deep",
+      "top": [
+        {
+          "pmid": "12196747",
+          "title": "A randomized clinical trial of 5% topical minoxidil versus 2% topical minoxidil and placebo in the treatment of androgenetic alopecia in men.",
+          "year": 2002,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/12196747/"
+        },
+        {
+          "pmid": "15034503",
+          "title": "A randomized, placebo-controlled trial of 5% and 2% topical minoxidil solutions in the treatment of female pattern hair loss.",
+          "year": 2004,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15034503/"
+        }
+      ],
+      "queryUrl": "https://europepmc.org/search?query=((TITLE%3A%22minoxidil%22)%20AND%20(TITLE_ABS%3A%22androgenetic%20alopecia%22%20OR%20TITLE_ABS%3A%22hair%20loss%22%20OR%20TITLE_ABS%3A%22hair%20regrowth%22%20OR%20TITLE_ABS%3A%22alopecia%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20(PUB_TYPE%3A%22Meta-Analysis%22%20OR%20PUB_TYPE%3A%22Systematic%20Review%22)%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))%20OR%20((TITLE_ABS%3A%22minoxidil%22)%20AND%20(TITLE_ABS%3A%22androgenetic%20alopecia%22%20OR%20TITLE_ABS%3A%22hair%20loss%22%20OR%20TITLE_ABS%3A%22hair%20regrowth%22%20OR%20TITLE_ABS%3A%22alopecia%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20PUB_TYPE%3A%22Randomized%20Controlled%20Trial%22%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))"
+    },
+    {
+      "active": "caffeine",
+      "condition": "androgenetic alopecia",
+      "reviews": 1,
+      "trials": 2,
+      "tier": "some",
+      "top": [
+        {
+          "pmid": "29055953",
+          "title": "An Open-Label Randomized Multicenter Study Assessing the Noninferiority of a Caffeine-Based Topical Liquid 0.2% versus Minoxidil 5% Solution in Male Androgenetic Alopecia.",
+          "year": 2017,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29055953/"
+        },
+        {
+          "pmid": "40820949",
+          "title": "A Novel Approach Against Male Pattern Hair Loss With Topical Dimethylglycine Sodium Salt (DMG-Na) and Caffeine: Efficacy of a 24-Week, Double-Blind, Randomized, Placebo-Controlled Trial.",
+          "year": 2025,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/40820949/"
+        }
+      ],
+      "queryUrl": "https://europepmc.org/search?query=((TITLE%3A%22caffeine%22)%20AND%20(TITLE_ABS%3A%22androgenetic%20alopecia%22%20OR%20TITLE_ABS%3A%22hair%20loss%22%20OR%20TITLE_ABS%3A%22hair%20regrowth%22%20OR%20TITLE_ABS%3A%22alopecia%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20(PUB_TYPE%3A%22Meta-Analysis%22%20OR%20PUB_TYPE%3A%22Systematic%20Review%22)%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))%20OR%20((TITLE_ABS%3A%22caffeine%22)%20AND%20(TITLE_ABS%3A%22androgenetic%20alopecia%22%20OR%20TITLE_ABS%3A%22hair%20loss%22%20OR%20TITLE_ABS%3A%22hair%20regrowth%22%20OR%20TITLE_ABS%3A%22alopecia%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20PUB_TYPE%3A%22Randomized%20Controlled%20Trial%22%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))"
+    },
+    {
+      "active": "biotin",
+      "condition": "androgenetic alopecia",
+      "reviews": 0,
+      "trials": 0,
+      "tier": "none",
+      "top": [],
+      "queryUrl": "https://europepmc.org/search?query=((TITLE%3A%22biotin%22)%20AND%20(TITLE_ABS%3A%22androgenetic%20alopecia%22%20OR%20TITLE_ABS%3A%22hair%20loss%22%20OR%20TITLE_ABS%3A%22hair%20regrowth%22%20OR%20TITLE_ABS%3A%22alopecia%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20(PUB_TYPE%3A%22Meta-Analysis%22%20OR%20PUB_TYPE%3A%22Systematic%20Review%22)%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))%20OR%20((TITLE_ABS%3A%22biotin%22)%20AND%20(TITLE_ABS%3A%22androgenetic%20alopecia%22%20OR%20TITLE_ABS%3A%22hair%20loss%22%20OR%20TITLE_ABS%3A%22hair%20regrowth%22%20OR%20TITLE_ABS%3A%22alopecia%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20PUB_TYPE%3A%22Randomized%20Controlled%20Trial%22%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))"
+    },
+    {
+      "active": "peptides",
+      "condition": "androgenetic alopecia",
+      "reviews": 0,
+      "trials": 0,
+      "tier": "none",
+      "top": [],
+      "queryUrl": "https://europepmc.org/search?query=((TITLE%3A%22peptides%22)%20AND%20(TITLE_ABS%3A%22androgenetic%20alopecia%22%20OR%20TITLE_ABS%3A%22hair%20loss%22%20OR%20TITLE_ABS%3A%22hair%20regrowth%22%20OR%20TITLE_ABS%3A%22alopecia%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20(PUB_TYPE%3A%22Meta-Analysis%22%20OR%20PUB_TYPE%3A%22Systematic%20Review%22)%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))%20OR%20((TITLE_ABS%3A%22peptides%22)%20AND%20(TITLE_ABS%3A%22androgenetic%20alopecia%22%20OR%20TITLE_ABS%3A%22hair%20loss%22%20OR%20TITLE_ABS%3A%22hair%20regrowth%22%20OR%20TITLE_ABS%3A%22alopecia%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20PUB_TYPE%3A%22Randomized%20Controlled%20Trial%22%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))"
+    },
+    {
+      "active": "mung bean sprout extract",
+      "condition": "androgenetic alopecia",
+      "reviews": 0,
+      "trials": 0,
+      "tier": "none",
+      "top": [],
+      "queryUrl": "https://europepmc.org/search?query=((TITLE%3A%22mung%20bean%20sprout%20extract%22)%20AND%20(TITLE_ABS%3A%22androgenetic%20alopecia%22%20OR%20TITLE_ABS%3A%22hair%20loss%22%20OR%20TITLE_ABS%3A%22hair%20regrowth%22%20OR%20TITLE_ABS%3A%22alopecia%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20(PUB_TYPE%3A%22Meta-Analysis%22%20OR%20PUB_TYPE%3A%22Systematic%20Review%22)%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))%20OR%20((TITLE_ABS%3A%22mung%20bean%20sprout%20extract%22)%20AND%20(TITLE_ABS%3A%22androgenetic%20alopecia%22%20OR%20TITLE_ABS%3A%22hair%20loss%22%20OR%20TITLE_ABS%3A%22hair%20regrowth%22%20OR%20TITLE_ABS%3A%22alopecia%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20PUB_TYPE%3A%22Randomized%20Controlled%20Trial%22%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))"
+    },
+    {
+      "active": "red clover extract",
+      "condition": "androgenetic alopecia",
+      "reviews": 0,
+      "trials": 0,
+      "tier": "none",
+      "top": [],
+      "queryUrl": "https://europepmc.org/search?query=((TITLE%3A%22red%20clover%20extract%22)%20AND%20(TITLE_ABS%3A%22androgenetic%20alopecia%22%20OR%20TITLE_ABS%3A%22hair%20loss%22%20OR%20TITLE_ABS%3A%22hair%20regrowth%22%20OR%20TITLE_ABS%3A%22alopecia%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20(PUB_TYPE%3A%22Meta-Analysis%22%20OR%20PUB_TYPE%3A%22Systematic%20Review%22)%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))%20OR%20((TITLE_ABS%3A%22red%20clover%20extract%22)%20AND%20(TITLE_ABS%3A%22androgenetic%20alopecia%22%20OR%20TITLE_ABS%3A%22hair%20loss%22%20OR%20TITLE_ABS%3A%22hair%20regrowth%22%20OR%20TITLE_ABS%3A%22alopecia%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20PUB_TYPE%3A%22Randomized%20Controlled%20Trial%22%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))"
+    }
+  ],
+  "groups": [
+    {
+      "key": "minoxidil 5% | foam",
+      "label": "Minoxidil 5% foam",
+      "productIds": [
+        "rogaine-men-s-5-minoxidil-foam-3-month-supply",
+        "equate-minoxidil-topical-aerosol-hair-regrowth-treatment-for",
+        "kirkland-signature-minoxidil-foam-for-men-hair-regrowth-trea"
+      ],
+      "cheapestId": "equate-minoxidil-topical-aerosol-hair-regrowth-treatment-for",
+      "monthlySavings": 5.68
+    }
+  ],
+  "generatedAt": "2026-09-27T01:53:57.768Z",
+  "cached": false,
+  "ranking": [
+    "equate-minoxidil-topical-aerosol-hair-regrowth-treatment-for",
+    "rogaine-men-s-5-minoxidil-foam-3-month-supply",
+    "rogaine-women-s-2-minoxidil-liquid-solution-1-month-supply",
+    "kirkland-signature-minoxidil-foam-for-men-hair-regrowth-trea",
+    "equate-minoxidil-topical-solution-usp-5-percent-extra-streng",
+    "hims-minoxidil-5-topical-solution-hair-loss-regrowth-treatme",
+    "nutrafol-men-s-hair-serum",
+    "vegamour-gro-hair-serum"
+  ],
+  "verdict": {
+    "pickId": "equate-minoxidil-topical-aerosol-hair-regrowth-treatment-for",
+    "bestValueId": "equate-minoxidil-topical-aerosol-hair-regrowth-treatment-for",
+    "summary": "The Equate 5% minoxidil foam is the pick and best value: an FDA-approved generic with deep research behind minoxidil, priced around $10.98 a month, the cheapest of the priced 5% foams.",
+    "perProduct": [
+      {
+        "id": "rogaine-men-s-5-minoxidil-foam-3-month-supply",
+        "points": [
+          "FDA-approved brand-name minoxidil 5% foam with deep research behind minoxidil for this condition.",
+          "Runs about $16.66 a month.",
+          "Rated 4 stars across 2,454 reviews."
+        ]
+      },
+      {
+        "id": "equate-minoxidil-topical-aerosol-hair-regrowth-treatment-for",
+        "points": [
+          "FDA-approved generic minoxidil 5% foam with deep research behind minoxidil for this condition.",
+          "Costs about $10.98 a month and is the cheapest of the priced options in the minoxidil 5% foam group.",
+          "Rated 4.4 stars across 1,518 reviews."
+        ]
+      },
+      {
+        "id": "kirkland-signature-minoxidil-foam-for-men-hair-regrowth-trea",
+        "points": [
+          "FDA-approved generic minoxidil 5% foam with deep research behind minoxidil for this condition.",
+          "No price listed, so its monthly cost is unknown.",
+          "No rating available."
+        ]
+      },
+      {
+        "id": "equate-minoxidil-topical-solution-usp-5-percent-extra-streng",
+        "points": [
+          "FDA-approved generic minoxidil 5% solution with deep research behind minoxidil for this condition.",
+          "No price listed, so its monthly cost is unknown.",
+          "No rating available."
+        ]
+      },
+      {
+        "id": "rogaine-women-s-2-minoxidil-liquid-solution-1-month-supply",
+        "points": [
+          "FDA-approved brand-name minoxidil 2% solution, a different strength and form, with deep research behind minoxidil.",
+          "Costs about $29.97 a month.",
+          "Rated 4 stars across 525 reviews."
+        ]
+      },
+      {
+        "id": "nutrafol-men-s-hair-serum",
+        "points": [
+          "Cosmetic serum with caffeine, biotin, and peptides; claims are not FDA-reviewed.",
+          "Caffeine has some research for this condition, while biotin and peptides have no research found.",
+          "No price listed; rated 4.3 stars across 32 reviews."
+        ]
+      },
+      {
+        "id": "vegamour-gro-hair-serum",
+        "points": [
+          "Cosmetic serum with mung bean sprout extract, red clover extract, and peptides; claims are not FDA-reviewed.",
+          "No research found for any of these actives for this condition.",
+          "Costs about $49 a month; rated 4.6 stars across 5,744 reviews."
+        ]
+      },
+      {
+        "id": "hims-minoxidil-5-topical-solution-hair-loss-regrowth-treatme",
+        "points": [
+          "FDA-approved generic minoxidil 5% solution with deep research behind minoxidil for this condition.",
+          "No price listed, so its monthly cost is unknown.",
+          "Rated 4.3 stars across 1,063 reviews."
+        ]
+      }
+    ],
+    "caveats": [
+      "Kirkland foam and both Equate/Hims solutions have no listed price, so monthly cost can't be judged for them.",
+      "Nutrafol and Vegamour serums are cosmetic products whose claims are not FDA-reviewed.",
+      "No rating data was available for Kirkland foam or the Equate solution.",
+      "Research tiers reflect how much study exists on an active for this condition, not how well any product works."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.walmart.com/c/kp/minoxidil-female",
+      "title": "Minoxidil Female"
+    },
+    {
+      "url": "https://www.walmart.com/ip/5-Minoxidil-Men-Women-Hair-Growth-Serum-Oil-Biotin-Regrowth-Stronger-Thicker-Fullness-Promote-Natural-Growth-Stop-Loss-Thinning-Nursing-Scalp/5701352737",
+      "title": "5% Minoxidil for Men and Women Hair Growth Serum, Hair Growth Oil Biotin Hair Regrowth for Stronger Thicker Fullness, Promote Natural Hair Growth, Stop Hair Loss and Thinning, Nursing Scalp - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Equate-Minoxidil-Topical-Aerosol-5-Hair-Loss-Regrowth-Treatment-for-Women-2-11-oz/239551500",
+      "title": "Equate Hair Regrowth Treatment For Women, Minoxidil 5 Percent (Foam), 2.11 oz HSA/FSA Eligible - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/minoxidil-5-for-women",
+      "title": "Minoxidil 5 For Women"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/minoxidil-topical-treatments",
+      "title": "Minoxidil Topical Treatments"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/minoxidil-for-women-haircare-best-sellers",
+      "title": "Minoxidil For Women Haircare Best Sellers"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Hers-82825254-Minoxidil-5-Topical-Foam-Hair-Regrowth-Treatment-for-Women-2-11-fl-oz/429254252",
+      "title": "Hers Minoxidil 5% Topical Foam, Hair Regrowth Treatment for Women, 2.11 fl oz - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/topical-minoxidil",
+      "title": "Topical Minoxidil"
+    },
+    {
+      "url": "https://www.walmart.com/ip/ROGAINE-Women-s-5-Minoxidil-Foam-Hair-Loss-Regrowth-Treatment-2-Month-Supply-2-11-oz/38695500",
+      "title": "Women's Rogaine 5% Minoxidil Topical Hair Treatment Solution, Unscented, 2-Month Supply - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Women-s-Rogaine-5-Minoxidil-Foam-Unscented-4-Month-Supply/38695499",
+      "title": "Rogaine Women's Hair Topical Treatment, Minoxidil 5% Foam, 4-Month Supply, Unscented - Walmart.com"
+    },
+    {
+      "url": "https://vegamour.com/",
+      "title": "VEGAMOUR: Hair Wellness® Delivered"
+    },
+    {
+      "url": "https://vegamour.com/collections/vegamour-hair-serums",
+      "title": "VEGAMOUR Hair Serums | Vegan & Cruelty Free | VEGAMOUR"
+    },
+    {
+      "url": "https://vegamour.com/products/gro-hair-serum",
+      "title": "GRO Hair Serum - Thicker Looking Hair In As Soon As 90 Days | Hair, Lash & Brows | VEGAMOUR"
+    },
+    {
+      "url": "https://vegamour.com/collections/daily-topical-serums",
+      "title": "Daily Topical Serums | Hair, Lash & Brows | VEGAMOUR"
+    },
+    {
+      "url": "https://www.amazon.com/VEGAMOUR-Serum-Thicker-Visibly-Longer/dp/B08KYM3Y6T",
+      "title": "Amazon.com: VEGAMOUR GRO Hair & Scalp Serum for Women & Men | Reduces Shedding, Fuller-Looking Hair, Lightweight Non-Oily Formula, Vegan & Cruelty-Free : Beauty & Personal Care"
+    },
+    {
+      "url": "https://vegamour.com/products/gro-advanced-hair-serum",
+      "title": "GRO+ Advanced Hair Serum for Severe Shedding | Hair, Lash & Brows | VEGAMOUR"
+    },
+    {
+      "url": "https://vegamour.com/collections/best-sellers",
+      "title": "Shop VEGAMOUR Best Sellers"
+    },
+    {
+      "url": "https://vegamour.com/collections/all",
+      "title": "Shop All VEGAMOUR Hair, Lash & Brow Products"
+    },
+    {
+      "url": "https://vegamour.com/pages/gro-hair-serum-reviews",
+      "title": "VEGAMOUR GRO Hair Serum Reviews"
+    },
+    {
+      "url": "https://vegamour.com/collections/hair-serum-subscriptions",
+      "title": "Hair Serum Subscriptions | Save Money! | VEGAMOUR"
+    },
+    {
+      "url": "https://www.costco.com/kirkland-signature-hair-regrowth-treatment-minoxidil-foam-for-men,-2.11-oz,-6-count.product.100038030.html",
+      "title": "Kirkland Signature Hair Regrowth Treatment Minoxidil Foam for Men, 2.11 oz, 6-count | Costco"
+    },
+    {
+      "url": "https://www.costcobusinessdelivery.com/p/-/kirkland-signature-minoxidil-foam-for-men-hair-regrowth-treatment-unscented-211-oz-6-ct/100206080",
+      "title": "Kirkland Signature Minoxidil Foam for Men, Hair Regrowth Treatment, Unscented, 2.11 oz, 6 ct | Costco"
+    },
+    {
+      "url": "https://app.warehouserunner.com/costco/778152-kirkland-signature-5-minoxidil-foam-for-men-6pk-2-11oz-ea",
+      "title": "Kirkland Signature 5% Minoxidil Foam for Men 6-Month Supply (#778152) - $48.99 (down from $50.99)"
+    },
+    {
+      "url": "https://www.costco.com/kirkland-signature-hair-regrowth-treatment-extra-strength-for-men,-5%25-minoxidil-topical-solution,-2-fl-oz,-6-pack.product.11501138.html",
+      "title": "Kirkland Signature Hair Regrowth Treatment Extra Strength for Men, 5% Minoxidil Topical Solution, 2 fl oz, 6-pack | Costco"
+    },
+    {
+      "url": "https://www.costco.com/kirkland-signature-hair-regrowth-treatment-minoxidil-foam-for-men-211-oz-6-count.product.100038030.html?bvstate=pg%3A4%2Fct%3Ar",
+      "title": "Kirkland Signature Hair Regrowth Treatment Minoxidil ..."
+    },
+    {
+      "url": "https://www.costco.com/p/-/kirkland-signature-hair-regrowth-treatment-extra-strength-for-men-5-minoxidil-topical-solution-2-fl-oz-6-pack/11501138",
+      "title": "Kirkland Signature Hair Regrowth Treatment Extra ..."
+    },
+    {
+      "url": "https://www.costco.com/hair-growth-products.html?brand=Kirkland+Signature&refine=%7C%7CBrand_attr-Kirkland+Signature",
+      "title": "Hair Growth Products"
+    },
+    {
+      "url": "https://sameday.costco.com/store/costco/products/196862-kirkland-signature-minoxidil-hair-regrowth-treatment-for-men-2-11-oz",
+      "title": "Kirkland Signature Minoxidil Hair Regrowth Treatment For Men Same-Day Delivery | Costco"
+    },
+    {
+      "url": "https://www.amazon.com/Kirkland-Signature-Minoxidil-12-66oz-6x2-11oz/dp/B007Z75H0Y",
+      "title": "Amazon.com : Kirkland Signature Minoxidil Foam for Men, 12.66 Ounce (6 Count) : Hair Regrowth Treatments : Beauty & Personal Care"
+    },
+    {
+      "url": "https://www.instacart.com/store/costco/products/196862",
+      "title": "Costco Kirkland Signature Hair Regrowth Treatment Minoxidil Foam for Men, 2.11 oz, 6-count Same-Day Delivery or Pickup | Instacart"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Men-s-Rogaine-5-Minoxidil-Foam-Treatment-3-Month-Supply/11081994",
+      "title": "Free Shipping! ROGAINE Men's 5% Minoxidil Foam Hair Regrowth Treatment with 3-Month Supply - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/browse/beauty/men-s-hair-regrowth/rogaine/1085666_3147628_8428896_9545402_4922801/YnJhbmQ6Um9nYWluZQieie",
+      "title": "Rogaine Men's Hair Regrowth in Hair Regrowth - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/browse/beauty/men-s-hair-regrowth/male/1085666_3147628_8428896_9545402_4922801/Z2VuZGVyOk1hbGUie",
+      "title": "Male Men's Hair Regrowth in Hair Regrowth - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/browse/beauty/mens-hair-regrowth/1085666_3147628_8428896_9545402_4922801",
+      "title": "Men's Hair Regrowth in Hair Regrowth - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/rogaine-foam",
+      "title": "rogaine foam - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/brand/rogaine/10060811",
+      "title": "Rogaine - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/3-pack-Men-s-Rogaine-5-Minoxidil-Foam-Hair-Regrowth-Treatment-3-Mo-Supply/15360767776",
+      "title": "(3 pack) Men's Rogaine Minoxidil 5% Foam 3x 2.11 oz Bottles - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/rogaine-foam-pack",
+      "title": "Rogaine Foam Pack"
+    },
+    {
+      "url": "https://www.walmart.com/browse/beauty/minoxidil/rogaine/1085666_3147628_8428896_9545402_7891323/YnJhbmQ6Um9nYWluZQieie",
+      "title": "Rogaine Minoxidil in Hair Regrowth - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Men-s-Rogaine-5-Minoxidil-Foam-Treatment-1-Month-Supply/11081995",
+      "title": "Men's Rogaine Extra Strength 5% Minoxidil Foam, 1-Month Supply, Hair Regrowth - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Equate-Minoxidil-Topical-Solution-5-Hair-Regrowth-Treatment-for-Men-3-Month-Supply/16627518",
+      "title": "Equate Men's 5% Minoxidil Topical Solution USP for Hair Regrowth, Unscented, 3 Month Supply, 2 fl oz (3 Count), Compare to Men's Rogaine® Extra Strength Active Ingredient - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Equate-Minoxidil-Topical-Aerosol-Hair-Regrowth-Treatment-for-Men-3-Month-Supply-2-11-oz-3-Piece/20648073",
+      "title": "Equate Minoxidil Topical Aerosol Hair Regrowth Treatment for Men, 3-Month Supply, 2.11 oz, 3 pack HSA/FSA Eligible - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Equate-Minoxidil-Topical-Solution-USP-5-Percent-Extra-Strength-90-Day-Liquid-6-oz/563865032",
+      "title": "Equate Minoxidil Topical Solution USP, 5 Percent, Extra Strength, 90 Day Liquid, 2 fl oz, 3 Pack HSA/FSA Eligible - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Equate-Extra-Strength-Hair-Regrowth-Treatment-for-Men-2-fl-oz-Bottle/5000026197",
+      "title": "Equate Minoxidil Topical Solution USP, 5 Percent Extra Strength for Men 2 fl oz - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/browse/equate-brand-minoxidil/c2hlbGZfaWQ6NjM3ODAie",
+      "title": "Equate Minoxidil"
+    },
+    {
+      "url": "https://www.walmart.com/ip/3-pack-Equate-Minoxidil-Topical-Solution-USP-5-Percent-Extra-Strength-90-Day-Liquid-6-oz/15360767177",
+      "title": "(3 pack) Equate Minoxidil Topical Solution USP, 5 Percent, Extra Strength, 90 Day Liquid, 2 fl oz, 3 Pack - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Equate-Minoxidil-Topical-Solution-USP-5-Percent-Extra-Strength-2-oz/415334118",
+      "title": "Equate Men's 5% Minoxidil Topical Solution USP for Hair Regrowth, Unscented, 1 Month Supply, 2 fl oz, Compare to Men's Rogaine® Extra Strength Active Ingredient - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/browse/beauty/minoxidil/male/1085666_3147628_8428896_9545402_7891323/Z2VuZGVyOk1hbGUie",
+      "title": "Male Minoxidil in Hair Regrowth - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/3-pack-Equate-Minoxidil-Topical-Aerosol-Hair-Regrowth-Treatment-for-Men-3-Month-Supply-2-11-oz-3-Piece/15382512017",
+      "title": "(3 pack) Equate Minoxidil Topical Aerosol Hair Regrowth Treatment for Men, 3-Month Supply, 2.11 oz, 3 pack - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Equate-Men-s-Minoxidil-Hair-Regrowth-Treatment-for-Men-1-Month-Supply/16627520",
+      "title": "Equate Compare to Men Rogaine Minoxidil Topical Solution 5% Hair Loss & Regrowth Treatment for Male, 1-Month Supply, 2 fl oz HSA/FSA Eligible - Walmart.com"
+    }
+  ]
+}

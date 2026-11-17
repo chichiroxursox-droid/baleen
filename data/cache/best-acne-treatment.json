@@ -1,0 +1,685 @@
+{
+  "query": "best acne treatment",
+  "condition": "acne vulgaris",
+  "products": [
+    {
+      "id": "differin-adapalene-gel-0-1-acne-treatment",
+      "brand": "Differin",
+      "name": "Adapalene Gel 0.1% Acne Treatment",
+      "form": "gel",
+      "actives": [
+        {
+          "name": "adapalene",
+          "strength": "0.1%"
+        }
+      ],
+      "packageSize": {
+        "amount": 45,
+        "unit": "g"
+      },
+      "dailyUse": null,
+      "price": null,
+      "rating": null,
+      "fda": {
+        "status": "NDA",
+        "applicationNumber": "NDA020380",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0739d631-171b-42a8-bd55-0022b8df2d8a",
+        "warnings": [
+          "Stop use and ask doctor if ... you have symptoms of an allergic reaction (such as itching, rash, hives, swelling of the lips, eyelids, and shortness of breath)",
+          "Stop use and ask doctor if ... irritation becomes severe",
+          "When using this product ... continue using as directed, unless you get irritation that becomes severe",
+          "When using this product ... irritation (redness, itching, dryness, burning) is more likely to occur:"
+        ]
+      },
+      "costPerMonth": null
+    },
+    {
+      "id": "panoxyl-foaming-acne-wash-maximum-strength",
+      "brand": "PanOxyl",
+      "name": "Foaming Acne Wash Maximum Strength",
+      "form": "wash",
+      "actives": [
+        {
+          "name": "benzoyl peroxide",
+          "strength": "10%"
+        }
+      ],
+      "packageSize": {
+        "amount": 155.92,
+        "unit": "g"
+      },
+      "dailyUse": null,
+      "price": null,
+      "rating": {
+        "stars": 4.6,
+        "count": 6913,
+        "source": "Walmart",
+        "url": "https://www.walmart.com/browse/beauty/benzoyl-peroxide/panoxyl/1085666_1007039_3369224_5837790/YnJhbmQ6UGFuT3h5bAieie"
+      },
+      "fda": {
+        "status": "OTC_MONOGRAPH",
+        "applicationNumber": "M006",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1660f219-e789-91f1-e063-6294a90a7664",
+        "warnings": [
+          "Stop use and ask a doctor if irritation becomes severe",
+          "When using this product skin irritation and dryness is more likely to occur",
+          "If irritation occurs, only use one topical acne medication at a time.",
+          "Irritation may be reduced by using the product less frequently or in a lower concentration."
+        ]
+      },
+      "costPerMonth": null
+    },
+    {
+      "id": "cerave-acne-foaming-cream-cleanser-4-benzoyl-peroxide",
+      "brand": "CeraVe",
+      "name": "Acne Foaming Cream Cleanser 4% Benzoyl Peroxide",
+      "form": "wash",
+      "actives": [
+        {
+          "name": "benzoyl peroxide",
+          "strength": "4%"
+        },
+        {
+          "name": "niacinamide",
+          "strength": null
+        },
+        {
+          "name": "hyaluronic acid",
+          "strength": null
+        }
+      ],
+      "packageSize": {
+        "amount": 147.87,
+        "unit": "ml"
+      },
+      "dailyUse": null,
+      "price": null,
+      "rating": {
+        "stars": 4.6,
+        "count": 2416,
+        "source": "Walmart",
+        "url": "https://www.walmart.com/ip/CeraVe-Acne-Foaming-Cream-Face-Cleanser-Treatment-Wash-4-Benzoyl-Peroxide-Hyaluronic-Acid-Niacinamide-Fragrance-Free-5-fl-oz/963608583"
+      },
+      "fda": {
+        "status": "OTC_MONOGRAPH",
+        "applicationNumber": "M006",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d9c11b75-14ee-46e3-9b1d-c349a102e2fd",
+        "warnings": [
+          "Stop use and ask a doctor if ... irritation becomes severe",
+          "When using this product ... skin irritation and dryness is more likely to occur",
+          "If irritation occurs, only use one topical acne medication at a time.",
+          "When using this product ... avoid contact with hair and dyed fabrics, which may be bleached by this product"
+        ]
+      },
+      "costPerMonth": null
+    },
+    {
+      "id": "cerave-acne-control-foaming-face-cleanser-10-bpo",
+      "brand": "CeraVe",
+      "name": "Acne Control Foaming Face Cleanser 10% BPO",
+      "form": "wash",
+      "actives": [
+        {
+          "name": "benzoyl peroxide",
+          "strength": "10%"
+        },
+        {
+          "name": "niacinamide",
+          "strength": null
+        }
+      ],
+      "packageSize": {
+        "amount": 147.87,
+        "unit": "ml"
+      },
+      "dailyUse": null,
+      "price": null,
+      "rating": null,
+      "fda": {
+        "status": "OTC_MONOGRAPH",
+        "applicationNumber": "M006",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=06950d35-daa8-4ea3-bd33-6e9c162e2a63",
+        "warnings": [
+          "Stop use and ask a doctor if ... irritation becomes severe",
+          "When using this product ... skin irritation and dryness is more likely to occur",
+          "If irritation occurs, only use one topical acne medication at a time.",
+          "When using this product ... avoid contact with hair and dyed fabrics, which may be bleached by this product"
+        ]
+      },
+      "costPerMonth": null
+    },
+    {
+      "id": "neutrogena-oil-free-acne-wash",
+      "brand": "Neutrogena",
+      "name": "Oil-Free Acne Wash",
+      "form": "wash",
+      "actives": [
+        {
+          "name": "salicylic acid",
+          "strength": "2%"
+        }
+      ],
+      "packageSize": {
+        "amount": 269.12,
+        "unit": "ml"
+      },
+      "dailyUse": null,
+      "price": {
+        "usd": 9.97,
+        "retailer": "Walmart",
+        "url": "https://www.walmart.com/ip/Neutrogena-Oil-Free-Salicylic-Acid-Acne-Fighting-Face-Wash-9-1-fl-oz/10308600",
+        "seenAt": "2026-09-27T01:54:42.296Z"
+      },
+      "rating": null,
+      "fda": {
+        "status": "OTC_MONOGRAPH",
+        "applicationNumber": "M006",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=581ea73f-439a-4290-a8c0-98a25b4496dc",
+        "warnings": [
+          "When using this product skin irritation and dryness is more likely to occur",
+          "If irritation occurs, only use one topical acne medication at a time."
+        ]
+      },
+      "costPerMonth": null
+    },
+    {
+      "id": "equate-oil-free-acne-wash-with-2-salicylic-acid",
+      "brand": "Equate",
+      "name": "Oil-Free Acne Wash with 2% Salicylic Acid",
+      "form": "wash",
+      "actives": [
+        {
+          "name": "salicylic acid",
+          "strength": "2%"
+        }
+      ],
+      "packageSize": {
+        "amount": 177.44,
+        "unit": "ml"
+      },
+      "dailyUse": null,
+      "price": {
+        "usd": 4.34,
+        "retailer": "Walmart",
+        "url": "https://www.walmart.com/ip/Equate-Oil-Free-Acne-Wash-6-oz/1991448297",
+        "seenAt": "2026-09-27T01:54:42.296Z"
+      },
+      "rating": null,
+      "fda": {
+        "status": "OTC_MONOGRAPH",
+        "applicationNumber": "M006",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=31e49de0-0806-d18b-e063-6294a90ae47d",
+        "warnings": [
+          "When using this product skin irritation and dryness is more likely to occur",
+          "If irritation occurs, only use one topical acne medication at a time."
+        ]
+      },
+      "costPerMonth": null
+    },
+    {
+      "id": "neutrogena-acne-proofing-daily-facial-gel-cleanser",
+      "brand": "Neutrogena",
+      "name": "Acne Proofing Daily Facial Gel Cleanser",
+      "form": "wash",
+      "actives": [
+        {
+          "name": "salicylic acid",
+          "strength": null
+        }
+      ],
+      "packageSize": {
+        "amount": 170.1,
+        "unit": "g"
+      },
+      "dailyUse": null,
+      "price": null,
+      "rating": null,
+      "fda": {
+        "status": "UNKNOWN",
+        "applicationNumber": null,
+        "labelUrl": null,
+        "warnings": []
+      },
+      "costPerMonth": null
+    },
+    {
+      "id": "differin-acne-spot-treatment-with-10-benzoyl-peroxide",
+      "brand": "Differin",
+      "name": "Acne Spot Treatment with 10% Benzoyl Peroxide",
+      "form": "other",
+      "actives": [
+        {
+          "name": "benzoyl peroxide",
+          "strength": "10%"
+        }
+      ],
+      "packageSize": {
+        "amount": 28.35,
+        "unit": "g"
+      },
+      "dailyUse": null,
+      "price": null,
+      "rating": null,
+      "fda": {
+        "status": "OTC_MONOGRAPH",
+        "applicationNumber": "M006",
+        "labelUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=05468eab-f239-42cb-9106-055a105f0fa5",
+        "warnings": [
+          "Do not use if you ... have very sensitive skin",
+          "Do not use if you ... are sensitive to benzoyl peroxide",
+          "When using this product ... skin irritation and dryness is more likely to occur",
+          "If irritation occurs, only use one topical acne medication at a time."
+        ]
+      },
+      "costPerMonth": null
+    }
+  ],
+  "evidence": [
+    {
+      "active": "adapalene",
+      "condition": "acne vulgaris",
+      "reviews": 3,
+      "trials": 103,
+      "tier": "deep",
+      "top": [
+        {
+          "pmid": "8609263",
+          "title": "A comparison of the efficacy and safety of adapalene gel 0.1% and tretinoin gel 0.025% in the treatment of acne vulgaris: a multicenter trial.",
+          "year": 1996,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/8609263/"
+        },
+        {
+          "pmid": "19466959",
+          "title": "Adapalene-benzoyl peroxide, a unique fixed-dose combination topical gel for the treatment of acne vulgaris: a transatlantic, randomized, double-blind, controlled study in 1670 patients.",
+          "year": 2009,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19466959/"
+        }
+      ],
+      "queryUrl": "https://europepmc.org/search?query=((TITLE%3A%22adapalene%22)%20AND%20(TITLE_ABS%3A%22acne%20vulgaris%22%20OR%20TITLE_ABS%3A%22acne%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20(PUB_TYPE%3A%22Meta-Analysis%22%20OR%20PUB_TYPE%3A%22Systematic%20Review%22)%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))%20OR%20((TITLE_ABS%3A%22adapalene%22)%20AND%20(TITLE_ABS%3A%22acne%20vulgaris%22%20OR%20TITLE_ABS%3A%22acne%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20PUB_TYPE%3A%22Randomized%20Controlled%20Trial%22%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))"
+    },
+    {
+      "active": "benzoyl peroxide",
+      "condition": "acne vulgaris",
+      "reviews": 6,
+      "trials": 126,
+      "tier": "deep",
+      "top": [
+        {
+          "pmid": "2145499",
+          "title": "A comparative study of tea-tree oil versus benzoylperoxide in the treatment of acne.",
+          "year": 1990,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/2145499/"
+        },
+        {
+          "pmid": "15610805",
+          "title": "Comparison of five antimicrobial regimens for treatment of mild to moderate inflammatory facial acne vulgaris in the community: randomised controlled trial.",
+          "year": 2004,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/15610805/"
+        }
+      ],
+      "queryUrl": "https://europepmc.org/search?query=((TITLE%3A%22benzoyl%20peroxide%22)%20AND%20(TITLE_ABS%3A%22acne%20vulgaris%22%20OR%20TITLE_ABS%3A%22acne%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20(PUB_TYPE%3A%22Meta-Analysis%22%20OR%20PUB_TYPE%3A%22Systematic%20Review%22)%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))%20OR%20((TITLE_ABS%3A%22benzoyl%20peroxide%22)%20AND%20(TITLE_ABS%3A%22acne%20vulgaris%22%20OR%20TITLE_ABS%3A%22acne%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20PUB_TYPE%3A%22Randomized%20Controlled%20Trial%22%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))"
+    },
+    {
+      "active": "niacinamide",
+      "condition": "acne vulgaris",
+      "reviews": 0,
+      "trials": 5,
+      "tier": "some",
+      "top": [
+        {
+          "pmid": "16766489",
+          "title": "The effect of 2% niacinamide on facial sebum production.",
+          "year": 2006,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/16766489/"
+        },
+        {
+          "pmid": "32390309",
+          "title": "A retrospective assessment and comparison of the effectiveness of benzoyl peroxide; the combination of topical niacinamide, gallic acid, and lauric acid; and the combination of benzoyl peroxide and erythromycin in acne vulgaris.",
+          "year": 2020,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32390309/"
+        }
+      ],
+      "queryUrl": "https://europepmc.org/search?query=((TITLE%3A%22niacinamide%22)%20AND%20(TITLE_ABS%3A%22acne%20vulgaris%22%20OR%20TITLE_ABS%3A%22acne%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20(PUB_TYPE%3A%22Meta-Analysis%22%20OR%20PUB_TYPE%3A%22Systematic%20Review%22)%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))%20OR%20((TITLE_ABS%3A%22niacinamide%22)%20AND%20(TITLE_ABS%3A%22acne%20vulgaris%22%20OR%20TITLE_ABS%3A%22acne%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20PUB_TYPE%3A%22Randomized%20Controlled%20Trial%22%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))"
+    },
+    {
+      "active": "hyaluronic acid",
+      "condition": "acne vulgaris",
+      "reviews": 0,
+      "trials": 1,
+      "tier": "thin",
+      "top": [
+        {
+          "pmid": "21637908",
+          "title": "Bilateral comparison study of pimecrolimus cream 1% and a ceramide-hyaluronic acid emollient foam in the treatment of patients with atopic dermatitis.",
+          "year": 2011,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21637908/"
+        }
+      ],
+      "queryUrl": "https://europepmc.org/search?query=((TITLE%3A%22hyaluronic%20acid%22)%20AND%20(TITLE_ABS%3A%22acne%20vulgaris%22%20OR%20TITLE_ABS%3A%22acne%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20(PUB_TYPE%3A%22Meta-Analysis%22%20OR%20PUB_TYPE%3A%22Systematic%20Review%22)%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))%20OR%20((TITLE_ABS%3A%22hyaluronic%20acid%22)%20AND%20(TITLE_ABS%3A%22acne%20vulgaris%22%20OR%20TITLE_ABS%3A%22acne%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20PUB_TYPE%3A%22Randomized%20Controlled%20Trial%22%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))"
+    },
+    {
+      "active": "salicylic acid",
+      "condition": "acne vulgaris",
+      "reviews": 3,
+      "trials": 14,
+      "tier": "deep",
+      "top": [
+        {
+          "pmid": "20488582",
+          "title": "Meta-analysis comparing efficacy of benzoyl peroxide, clindamycin, benzoyl peroxide with salicylic acid, and combination benzoyl peroxide/clindamycin in acne.",
+          "year": 2010,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20488582/"
+        },
+        {
+          "pmid": "17692723",
+          "title": "Tretinoin gel microspheres 0.04% versus 0.1% in adolescents and adults with mild to moderate acne vulgaris: a 12-week, multicenter, randomized, double-blind, parallel-group, phase IV trial.",
+          "year": 2007,
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17692723/"
+        }
+      ],
+      "queryUrl": "https://europepmc.org/search?query=((TITLE%3A%22salicylic%20acid%22)%20AND%20(TITLE_ABS%3A%22acne%20vulgaris%22%20OR%20TITLE_ABS%3A%22acne%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20(PUB_TYPE%3A%22Meta-Analysis%22%20OR%20PUB_TYPE%3A%22Systematic%20Review%22)%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))%20OR%20((TITLE_ABS%3A%22salicylic%20acid%22)%20AND%20(TITLE_ABS%3A%22acne%20vulgaris%22%20OR%20TITLE_ABS%3A%22acne%22)%20AND%20(TITLE_ABS%3A%22topical%22%20OR%20TITLE_ABS%3A%22topically%22)%20AND%20PUB_TYPE%3A%22Randomized%20Controlled%20Trial%22%20NOT%20(PUB_TYPE%3A%22Letter%22%20OR%20PUB_TYPE%3A%22Comment%22%20OR%20PUB_TYPE%3A%22Editorial%22))"
+    }
+  ],
+  "groups": [
+    {
+      "key": "salicylic acid 2% | wash",
+      "label": "Salicylic acid 2% wash",
+      "productIds": [
+        "neutrogena-oil-free-acne-wash",
+        "equate-oil-free-acne-wash-with-2-salicylic-acid"
+      ],
+      "cheapestId": "equate-oil-free-acne-wash-with-2-salicylic-acid",
+      "monthlySavings": null
+    }
+  ],
+  "generatedAt": "2026-09-27T01:54:42.296Z",
+  "cached": false,
+  "ranking": [
+    "differin-adapalene-gel-0-1-acne-treatment",
+    "panoxyl-foaming-acne-wash-maximum-strength",
+    "cerave-acne-foaming-cream-cleanser-4-benzoyl-peroxide",
+    "cerave-acne-control-foaming-face-cleanser-10-bpo",
+    "differin-acne-spot-treatment-with-10-benzoyl-peroxide",
+    "neutrogena-oil-free-acne-wash",
+    "equate-oil-free-acne-wash-with-2-salicylic-acid",
+    "neutrogena-acne-proofing-daily-facial-gel-cleanser"
+  ],
+  "verdict": {
+    "pickId": "differin-adapalene-gel-0-1-acne-treatment",
+    "bestValueId": null,
+    "summary": "Differin Adapalene Gel 0.1% is the pick, an FDA-approved treatment with deep research behind adapalene. Most other options rely on benzoyl peroxide or salicylic acid, both also deep research. Among the two salicylic acid washes, Equate is cheaper of the priced ones.",
+    "perProduct": [
+      {
+        "id": "differin-adapalene-gel-0-1-acne-treatment",
+        "points": [
+          "The pick: FDA-approved gel with adapalene 0.1%, an active with deep research for acne.",
+          "Label notes irritation like redness, itching, dryness or burning is possible, and to stop and ask a doctor if it becomes severe.",
+          "No price or rating listed."
+        ]
+      },
+      {
+        "id": "panoxyl-foaming-acne-wash-maximum-strength",
+        "points": [
+          "A wash with benzoyl peroxide 10%, an active with deep research for acne.",
+          "Sold under an OTC monograph, so no product-specific trials are required.",
+          "Rated 4.6 stars from 6,913 reviews, but no price given."
+        ]
+      },
+      {
+        "id": "cerave-acne-foaming-cream-cleanser-4-benzoyl-peroxide",
+        "points": [
+          "Wash combining benzoyl peroxide 4% (deep research) with niacinamide (some research) and hyaluronic acid (thin research).",
+          "Label warns it may bleach hair or dyed fabrics.",
+          "Rated 4.6 stars from 2,416 reviews; no price listed."
+        ]
+      },
+      {
+        "id": "cerave-acne-control-foaming-face-cleanser-10-bpo",
+        "points": [
+          "Wash with benzoyl peroxide 10% (deep research) plus niacinamide (some research).",
+          "Same fabric-bleaching warning as CeraVe's other BPO wash.",
+          "No price or rating listed."
+        ]
+      },
+      {
+        "id": "neutrogena-oil-free-acne-wash",
+        "points": [
+          "Wash with salicylic acid 2%, an active with deep research for acne.",
+          "Priced at $9.97 at Walmart.",
+          "Shares its active and strength with Equate's wash, which is cheaper of the two priced options."
+        ]
+      },
+      {
+        "id": "equate-oil-free-acne-wash-with-2-salicylic-acid",
+        "points": [
+          "Wash with salicylic acid 2%, an active with deep research for acne.",
+          "Priced at $4.34 at Walmart, the cheapest of the priced salicylic acid 2% washes.",
+          "No rating listed."
+        ]
+      },
+      {
+        "id": "neutrogena-acne-proofing-daily-facial-gel-cleanser",
+        "points": [
+          "Gel cleanser with salicylic acid (strength not listed), an active with deep research for acne.",
+          "No matching FDA drug label was found for this product.",
+          "No price or rating listed."
+        ]
+      },
+      {
+        "id": "differin-acne-spot-treatment-with-10-benzoyl-peroxide",
+        "points": [
+          "Spot treatment with benzoyl peroxide 10%, an active with deep research for acne.",
+          "Label says not to use if you have very sensitive skin or are sensitive to benzoyl peroxide.",
+          "No price or rating listed."
+        ]
+      }
+    ],
+    "caveats": [
+      "Most products in this list have no price or monthly cost listed, so broad cost comparisons aren't possible.",
+      "Star ratings are missing for several products.",
+      "Only the two salicylic acid washes could be directly compared on price."
+    ]
+  },
+  "sources": [
+    {
+      "url": "https://www.cerave.com/skin-smarts/skin-concerns/acne/salicylic-acid-vs-benzoyl-peroxide",
+      "title": "Salicylic Acid vs. Benzoyl Peroxide for Acne-Prone Skin"
+    },
+    {
+      "url": "https://www.healthline.com/health/beauty-skin-care/salicylic-acid-vs-benzoyl-peroxide",
+      "title": "Which Is Better for Acne, Salicylic Acid or Benzoyl Peroxide?"
+    },
+    {
+      "url": "https://www.goodrx.com/benzoyl-peroxide/benzoyl-peroxide-vs-salicylic-acid",
+      "title": "Benzoyl Peroxide vs. Salicylic Acid for Acne: Side Effects, Effectiveness, & More - GoodRx"
+    },
+    {
+      "url": "https://www.mayoclinic.org/diseases-conditions/acne/in-depth/acne-treatments/art-20045814",
+      "title": "Nonprescription acne treatment: Which products work best? - Mayo Clinic"
+    },
+    {
+      "url": "https://thecarepharmacy.com/benzoyl-peroxide-vs-salicylic-acid/",
+      "title": "Benzoyl Peroxide vs Salicylic Acid: A Comparison | The Care Pharmacy"
+    },
+    {
+      "url": "https://www.mdacne.com/article/benzoyl-peroxide-vs-salicylic-acid-vs-adapalene-the-best-topical-treatments-for-acne",
+      "title": "Benzoyl Peroxide vs. Salicylic Acid vs. Adapalene | MDacne"
+    },
+    {
+      "url": "https://www.medstown.com/salicylic-acid-vs-benzoyl-peroxide-acne-guide/",
+      "title": "Salicylic Acid vs. Benzoyl Peroxide: Which Acne Treatment Actually Works for You"
+    },
+    {
+      "url": "https://curology.com/blog/benzoyl-peroxide-vs-salicylic-acid-for-acne/",
+      "title": "Benzoyl peroxide vs. salicylic acid for acne | Curology"
+    },
+    {
+      "url": "https://www.jaad.org/article/S0190-9622(03)03386-3/fulltext",
+      "title": "A double-blind comparison of the efficacy of a salicylic acid based acne treatment regimen versus a benzoyl peroxide based acne treatment regimen for the treatment of acne vulgaris - Journal of the American Academy of Dermatology"
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3366450/",
+      "title": "Over-the-counter Acne Treatments: A Review - PMC"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Differin-Acne-Treatment-Gel-Retinoid-Treatment-for-Face-with-0-1-Adapalene-15g-Tube/127541271",
+      "title": "Differin Prescription-Strength Retinoid Acne Treatment Gel for Face with 0.1% Adapalene, Clears & Prevents Acne, Fragrance-Free, 15g Tube​ - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Differin-Acne-Treatment-Gel-Retinoid-Treatment-For-Face-With-0-1-Adapalene-1-6-oz-45g/252332363",
+      "title": "Differin Acne Treatment Gel, Retinoid Treatment for Face with 0.1% Adapalene, Gentle Skin Care for Acne Prone Sensitive Skin, 1.6 OZ - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Differin-Acne-Treatment-Gel-Retinoid-Treatment-with-0-1-Adapalene-1-6oz-45g-Pump/725073812",
+      "title": "Differin Acne Treatment Gel with 0.1% Adapalene, Prescription-Strength Retinoid Clears & Prevents Acne, Fragrance-Free, 1.6 oz (45g) Pump ​ HSA/FSA Eligible - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Differin-Acne-Treatment-Gel-Retinoid-Treatment-for-Face-with-0-1-Adapalene-15g-Pump/473410464",
+      "title": "Differin Acne Treatment Gel for Face with 0.1% Adapalene, Prescription-Strength Retinoid Clears & Prevents Acne, Fragrance-Free, 15g Pump ​ HSA/FSA Eligible - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Differin-Adapalene-0-1-Acne-Treatment-Gel-0-50-oz/124195563",
+      "title": "Differin Adapalene 0.1% Fast Acting Acne Treatment Gel, Pimple Spot Clearing Topical Cream, 0.50 oz - Walmart.com"
+    },
+    {
+      "url": "https://www.walgreens.com/store/c/differin-acne-treatment,-0.1-adapalene-gel-tube/ID=prod6388999-product",
+      "title": "Differin Adapalene Gel 0.1% Acne Treatment- 1.6oz | Walgreens"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/adapalene",
+      "title": "Adapalene"
+    },
+    {
+      "url": "https://www.walmart.com/browse/beauty/differin-gel/1085666_1007039_3369224_3470017",
+      "title": "Differin Gel in Acne Treatments - Walmart.com"
+    },
+    {
+      "url": "https://www.walgreens.com/store/c/differin-0.1-adapalene-gel/ID=prod6388971-product",
+      "title": "Differin Adapalene Gel 0.1% Acne Treatment- 0.5oz | Walgreens"
+    },
+    {
+      "url": "https://www.walmart.com/browse/differin/YnJhbmQ6RGlmZmVyaW4ie",
+      "title": "Differin"
+    },
+    {
+      "url": "https://www.target.com/p/panoxyl-maximum-strength-antimicrobial-acne-foaming-wash-for-face-chest-and-back-with-10-benzoyl-peroxide-unscented-5-5oz/-/A-14984165",
+      "title": "PanOxyl 10% Benzoyl Peroxide Acne Foaming Wash - 5.5oz : Target"
+    },
+    {
+      "url": "https://www.target.com/p/panoxyl-10-benzoyl-peroxide-acne-foaming-wash-1oz/-/A-87486482",
+      "title": "PanOxyl 10% Benzoyl Peroxide Acne Foaming Wash - 1oz : Target"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/panoxyl-wash",
+      "title": "Panoxyl Wash"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/benzoyl-peroxide-wash-panoxyl",
+      "title": "Benzoyl Peroxide Wash Panoxyl"
+    },
+    {
+      "url": "https://www.walmart.com/ip/PanOxyl-Foaming-Acne-Wash-Maximum-Strength-10-Benzoyl-Peroxide-5-5-oz/10323032",
+      "title": "PanOxyl Foaming Acne Wash, Maximum Strength, 10% Benzoyl Peroxide - 5.5 oz HSA/FSA Eligible - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/PanOxyl-Max-Strength-Acne-Foaming-Wash-Face-Body-10-Benzoyl-Peroxide-All-Skin-Types-5-5-oz/803154651",
+      "title": "PanOxyl 10% Benzoyl Peroxide Acne Foaming Wash, Clear Acne, 5.5 Oz HSA/FSA Eligible - Walmart.com"
+    },
+    {
+      "url": "https://www.target.com/c/skin-care-best-sellers/panoxyl/-/N-78vk4Z4yrij",
+      "title": "PanOxyl : Skin Care Best Sellers : Target"
+    },
+    {
+      "url": "https://www.target.com/b/panoxyl/-/N-4yrij",
+      "title": "PanOxyl products at Target"
+    },
+    {
+      "url": "https://www.walmart.com/browse/beauty/benzoyl-peroxide/panoxyl/1085666_1007039_3369224_5837790/YnJhbmQ6UGFuT3h5bAieie",
+      "title": "PanOxyl Benzoyl Peroxide in Acne Treatments - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/panoxyl-foaming-acne-wash",
+      "title": "Panoxyl Foaming Acne Wash"
+    },
+    {
+      "url": "https://www.target.com/p/cerave-acne-foaming-cream-face-cleanser-acne-treatment-face-wash-fragrance-free-5oz/-/A-76545878",
+      "title": "CeraVe Acne Foaming Cream Face Cleanser, Acne Treatment Face Wash - Fragrance-Free - 5oz : Target"
+    },
+    {
+      "url": "https://www.target.com/s/cerave+acne+control",
+      "title": "CeraVe Acne Control Cleansers | Salicylic Acid & BPO"
+    },
+    {
+      "url": "https://www.target.com/s/cerave+foaming+cleanser",
+      "title": "CeraVe Foaming Cleanser | Acne, Cream-to- ..."
+    },
+    {
+      "url": "https://www.target.com/s/cerave+products+acne",
+      "title": "cerave products acne - Salicylic Acid & Face Wash"
+    },
+    {
+      "url": "https://www.target.com/s/cerave+acne+foaming+cream+cleanser",
+      "title": "cerave acne foaming cream cleanser"
+    },
+    {
+      "url": "https://www.target.com/s/cerave+acne+fash+wash",
+      "title": "cerave acne fash wash - Salicylic Acid & Cleansers"
+    },
+    {
+      "url": "https://www.target.com/s/cerave+foaming+facial+cleanser",
+      "title": "CeraVe Foaming Facial Cleanser | Hyaluronic Acid"
+    },
+    {
+      "url": "https://www.target.com/c/facial-cleansers-skin-care-beauty/cerave/-/N-5xtziZ55v99",
+      "title": "CeraVe Facial Cleansers | Acne-Prone | Oily | Combination Skin"
+    },
+    {
+      "url": "https://www.walmart.com/ip/CeraVe-Acne-Foaming-Cream-Face-Cleanser-Treatment-Wash-4-Benzoyl-Peroxide-Hyaluronic-Acid-Niacinamide-Fragrance-Free-5-fl-oz/963608583",
+      "title": "Cerave Acne Foaming Cream Cleanser, 5 fl oz HSA/FSA Eligible - Walmart.com"
+    },
+    {
+      "url": "https://www.target.com/p/cerave-acne-control-foaming-face-cleanser-10-bpo-5-fl-oz/-/A-88532683",
+      "title": "CeraVe Acne Control Foaming Face Cleanser 10% BPO - 5 fl oz: Paraben-Free, Noncomedogenic, With Niacinamide : Target"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Neutrogena-Oil-Free-Salicylic-Acid-Acne-Fighting-Face-Wash-9-1-fl-oz/10308600",
+      "title": "Neutrogena Oil-Free Acne Face Wash, Salicylic Acid Facial Cleanser & Acne Treatment, 9.1 fl oz HSA/FSA Eligible - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Neutrogena-Oil-Free-Salicylic-Acid-Acne-Fighting-Face-Wash-6-fl-oz/887640",
+      "title": "Neutrogena Oil-Free Acne Face Wash, Salicylic Acid Facial Cleanser & Acne Treatment, 6 fl oz HSA/FSA Eligible - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Neutrogena-Acne-Proofing-Salicylic-Acid-Facial-Gel-Cleanser-6-oz/116998795",
+      "title": "Neutrogena Acne Proofing Salicylic Acid Facial Gel Cleanser, 6 oz HSA/FSA Eligible - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/salicylic-acid-cleanser-neutrogena",
+      "title": "Salicylic Acid Cleanser Neutrogena"
+    },
+    {
+      "url": "https://www.walmart.com/ip/2-pack-Neutrogena-Oil-Free-Salicylic-Acid-Acne-Face-Wash-and-Facial-Cleanser-9-1-fl-oz/9956561738",
+      "title": "(2 pack) Neutrogena Oil-Free Acne Face Wash, Salicylic Acid Facial Cleanser & Acne Treatment, 9.1 fl oz - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/neutrogena-face-wash-salicylic-acid",
+      "title": "Neutrogena Face Wash Salicylic Acid"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Equate-Oil-Free-Acne-Wash-6-oz/1991448297",
+      "title": "Equate Oil Free Acne Wash with 2% Salicylic Acid for Acne Care, 6 fl oz, Compare to Neutrogena® Oil-Free Acne Wash Active Ingredient HSA/FSA Eligible - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Neutrogena-Oil-Free-Acne-Fighting-Fragrance-Free-Face-Wash-9-1-fl-oz/5315382431",
+      "title": "Neutrogena Oil-Free Acne Face Wash, Fragrance Free, 2% Salicylic Acid, 9.1 fl oz - Walmart.com"
+    },
+    {
+      "url": "https://www.walmart.com/c/kp/neutrogena-oil-acne-face-wash",
+      "title": "Neutrogena Oil Acne Face Wash"
+    },
+    {
+      "url": "https://www.walmart.com/ip/Equate-Beauty-Oil-Free-Acne-Wash-6-Fl-oz/877312129",
+      "title": "Equate Beauty Oil-Free Acne Wash, 6 fl oz HSA/FSA Eligible - Walmart.com"
+    }
+  ]
+}
